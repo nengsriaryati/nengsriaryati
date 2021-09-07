@@ -122,7 +122,6 @@ body {
 
 /* content 2 */
 .content-2 {
-
     margin-top: 200px;
 }
 
@@ -137,6 +136,17 @@ body {
 }
 
 .bg-2 {
+    margin-top: 200px;
+    margin-bottom: -600px;
+    height: 500px;
+    background-image: url('/img/circle.png');
+    background-repeat: no-repeat;
+    background-position-x: 990px;
+    background-position-y: 300px;
+    background-size: 50px;
+}
+
+.bg-2b {
     margin-top: 200px;
     margin-bottom: -600px;
     height: 500px;
